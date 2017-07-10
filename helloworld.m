@@ -1,1 +1,5 @@
-fprintf("Hello world!")
+function helloworld
+
+fprintf('Hello world!');
+
+end
